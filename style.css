@@ -27,15 +27,15 @@ body {
 }
 
 a {
-  text-decoration: none;
+  /* text-decoration: none; */
 }
 
 a:link {
-  color:rgba(0, 0, 0, 0.468);
+  color:rgb(40, 122, 230);
 }
 
 a:visited {
-  color:rgba(9, 1, 168, 0.52);
+  color:rgb(186, 183, 249);
 }
 
 .navbar {
@@ -176,7 +176,7 @@ p {
   padding: 10px;
   font-family: sans-serif;
   color: rgb(231, 231, 231);
-  font-size: small;
+  /* font-size: small; */
 }
 
 ul {
@@ -186,6 +186,12 @@ ul {
   padding: 10px;
   list-style-type: "";
   color: rgb(231, 231, 231);
+}
+
+.scenes {
+  font-size: large;
+  padding-left: 40px;
+  text-indent: -40px;
 }
 
 .title {
@@ -212,12 +218,13 @@ h2 {
   font-size: 22px;
   width: 90%;
   padding: 10px;
+  color:rgb(231, 231, 231);
 }
 
 h3 {
   font-family: sans-serif;
   margin: auto;
-  width: 80%;
+  /* width: 80%; */
   padding: 10px;
   color:rgb(231, 231, 231);
 }
