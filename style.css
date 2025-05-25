@@ -201,7 +201,7 @@ ul {
 h1 {
   font-family: sans-serif, cursive;
   font-weight:bold;
-  font-size: 22px;
+  font-size: 34px;
   margin: auto;
   align-self: center;
   width: 90%;
@@ -247,4 +247,9 @@ h5 {
   /* width: 80%; */
   padding: 10px;
   color:rgb(231, 231, 231);
+}
+
+h6 {
+  font-family: sans-serif;
+  color: rgb(231, 231, 231);
 }
